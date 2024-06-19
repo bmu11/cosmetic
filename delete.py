@@ -1,0 +1,7 @@
+from DBConn import delete_products_with_title_not_found
+from DBConn import delete_duplicate_titles
+from DBConn import delete_products_with_desc_not_found
+
+#delete_products_with_desc_not_found()
+#delete_products_with_title_not_found()
+delete_duplicate_titles()
